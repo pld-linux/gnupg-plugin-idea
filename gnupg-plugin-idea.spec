@@ -3,7 +3,7 @@ Summary(pl):	Dodatkowy modu³ do GPG zawieraj±cy obs³ugê algorytmu IDEA
 Name:		gnupg-plugin-idea
 # gnupgext_version in idea.c
 Version:	1.11
-Release:	1
+Release:	2
 License:	BSD-like
 Group:		Applications/File
 Source0:	http://www.gnupg.dk/contrib-dk/idea.c.gz
