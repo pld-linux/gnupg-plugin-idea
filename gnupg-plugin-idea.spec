@@ -8,7 +8,6 @@ License:	BSD-like
 Group:		Applications/File
 Source0:	http://www.gnupg.dk/contrib-dk/idea.c.gz
 # Source0-md5:	9dc3bc086824a8c7a331f35e09a3e57f
-Icon:		gnupg.gif
 URL:		http://www.gnupg.org/
 Requires:	gnupg
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
