@@ -1,5 +1,5 @@
 Summary:	Additional module for GPG containing the IDEA cipher
-Summary(pl):	Dodatkowy modu³ do GPG zawieraj±cy obs³ugê algorytmu IDEA
+Summary(pl.UTF-8):   Dodatkowy moduÅ‚ do GPG zawierajÄ…cy obsÅ‚ugÄ™ algorytmu IDEA
 Name:		gnupg-plugin-idea
 # gnupgext_version in idea.c
 Version:	1.11
@@ -16,8 +16,8 @@ Obsoletes:	gnupg-i
 %description
 Additional module for GNU Privacy Guard containing the IDEA cipher.
 
-%description -l pl
-Dodatkowy modu³ do GNU Privacy Guard zawieraj±cy obs³ugê algorytmu
+%description -l pl.UTF-8
+Dodatkowy moduÅ‚ do GNU Privacy Guard zawierajÄ…cy obsÅ‚ugÄ™ algorytmu
 IDEA.
 
 %prep
