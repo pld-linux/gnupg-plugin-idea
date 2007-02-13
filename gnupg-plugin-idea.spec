@@ -1,5 +1,5 @@
 Summary:	Additional module for GPG containing the IDEA cipher
-Summary(pl.UTF-8):   Dodatkowy moduł do GPG zawierający obsługę algorytmu IDEA
+Summary(pl.UTF-8):	Dodatkowy moduł do GPG zawierający obsługę algorytmu IDEA
 Name:		gnupg-plugin-idea
 # gnupgext_version in idea.c
 Version:	1.11
